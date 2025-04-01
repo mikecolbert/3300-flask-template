@@ -13,3 +13,5 @@ Starter flask 3.1.0 template
    - Mac: `source ./venv/bin/activate`
 
 3. Install the dependencies `pip install -r requirements.txt`
+
+![screenshot of sample Flask 3.1.0 application using Jinja templates](v_2_screenshot.png)
